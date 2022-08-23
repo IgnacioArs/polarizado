@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Polarizado",
+    "slug": "Polarizado",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./image/logito.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./image/inicio.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "devars.polarizado"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

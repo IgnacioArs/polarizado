@@ -1,0 +1,32 @@
+Modulos para necesarios para nuestro proyecto Mobil
+https://reactnavigation.org/docs/getting-started/
+
+//estructuramos la navegacion que va a tener nuestro proyecto
+1-npm install @react-navigation/native
+2-expo install react-native-screens react-native-safe-area-context
+3-npm install @react-navigation/native-stack
+//https://www.youtube.com/watch?v=_K9f-OZPPVA
+
+//elementos
+https://reactnativeelements.com/docs/installation#using-expo       https://youtu.be/VE7J0SA1PRQ?t=3140
+4-npm install react-native-elements
+5-npm install react-native-vector-icons  --> https://icons.expo.fyi/
+
+//Modulo de conexion (EN CASO DE USAR BASE DE DATOS RELACIONAL NO RELACIONAL)
+npm install axios 
+
+//en este caso usaremos asyncStorage base de datos local
+6- expo install @react-native-async-storage/async-storage
+https://react-native-async-storage.github.io/async-storage/docs/install/
+//VIDEO REFERENCIA COMO UTILIZAR ASYNCSTORAGE
+https://www.youtube.com/watch?v=oEc6ndf8MXg&list=PLaAoUJDWH9WonhD-ZLyYber1O7LnoI62w
+
+7-Sqlite https://www.youtube.com/watch?v=tDrnO2ID2jM
+         https://www.youtube.com/watch?v=gzwzdVhGSUQ
+         https://www.youtube.com/watch?v=TLmjrpCQKak
+         
+lo mejor para sqlite
+https://github.com/university-lessons/pdm-expo-sqlite-activerecord/blob/master/App.js
+https://www.youtube.com/watch?v=TLmjrpCQKak
+
+
