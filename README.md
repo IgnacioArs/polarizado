@@ -1,0 +1,2 @@
+# polarizado
+reactExpo sqlite
