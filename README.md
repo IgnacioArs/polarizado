@@ -19,7 +19,7 @@
 ### expo install @react-native-async-storage/async-storage
 ### https://react-native-async-storage.github.io/async-storage/docs/install/
          
-#8-creacion de crud
+# 8-creacion de crud (SQLITE BASE DE DATOS LOCAL)
 ### https://github.com/university-lessons/pdm-expo-sqlite-activerecord/blob/master/App.js
 
 
