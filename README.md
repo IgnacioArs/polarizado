@@ -1,6 +1,6 @@
 # polarizado
 
-## Modulos para necesarios para nuestro proyecto Mobil
+## Modulos para necesarios para nuestro proyecto Móviles 
 ### https://reactnavigation.org/docs/getting-started/
 
 ## //estructuramos la navegacion que va a tener nuestro proyecto
